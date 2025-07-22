@@ -1,0 +1,19 @@
+# Old Phone Pad Text Converter
+
+The Old Phone Pad Text Converter is a C# program that simulates the text input method used on old mobile phone keypads, where each number key corresponds to multiple letters.
+
+## Overview
+
+This program consists of several components:
+
+- **OldPhonePad**: A class that converts sequences of numbers and special characters into text based on old phone keypad input rules.
+- **Program.cs**: Contains the main entry point (`Main` function) for user interaction.
+- **OldPhonePadTests**: NUnit test cases to ensure the `OldPhonePad` class functions correctly across various input scenarios.
+
+## Installation
+
+To run the program and tests locally, follow these steps:
+
+1. Clone the repository.
+2. Clean and Build the project.
+3. Run the project and input some values.
